@@ -21,4 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Docker
+docker-compose build
+docker-compose up
+
+rails s -b 0.0.0.0
