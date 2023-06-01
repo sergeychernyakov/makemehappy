@@ -26,3 +26,5 @@ docker-compose build
 docker-compose up
 
 rails s -b 0.0.0.0
+
+rails new makemehappy -j esbuild --css bootstrap  
